@@ -1,6 +1,6 @@
 {
+  "name": "gpay-app",
   "homepage": "https://premm-x.github.io/gpay-app/",
-  "name": "reactinterview",
   "private": true,
   "version": "0.0.0",
   "type": "module",
