@@ -7,7 +7,7 @@ import LastPage from './pages/lastPage'
 function App() {
   return (
     <Routes>
-      <Route path={"/"} element={<TopPage/>} />
+      <Route path={"/gpay-app"} element={<TopPage/>} />
       <Route path={"/balance"} element={<Balance/>} />
       <Route path={"/last"} element={<LastPage/>} />
     </Routes>
